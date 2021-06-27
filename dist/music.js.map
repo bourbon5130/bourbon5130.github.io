@@ -1,7 +1,7 @@
 const ap = new APlayer({
     container: document.getElementById('aplayer'),
-    fixed: false,
-    autoplay: false,
+    fixed: true,
+    autoplay: true,
     theme: '#b7daff',
     loop: 'all',
     order: 'list',
@@ -15,7 +15,7 @@ const ap = new APlayer({
       {
         name: '無名英雄',
         artist: '滅火器',
-        url: 'https://drive.google.com/uc?export=download&id=1ZYrn-NwgYjbJyxtfEPUi2Aj0WSnks31b'
+        url: 'https://drive.google.com/uc?export=download&id=1ZYrn-NwgYjbJyxtfEPUi2Aj0WSnks31b',
         cover: '',
         lrc: ''
       }
