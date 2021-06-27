@@ -17,7 +17,7 @@ const ap = new APlayer({
         artist: '·À¤õ¾¹',
         url: 'https://drive.google.com/uc?export=download&id=1ZYrn-NwgYjbJyxtfEPUi2Aj0WSnks31b',
         cover: '',
-        lrc: '',
+        lrc: ''
       }
       
     ]
